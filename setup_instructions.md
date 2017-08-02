@@ -8,7 +8,7 @@
         <img src="images/anaconda_setup_check.png" width="600"/>
 
 ### Test your install
-1. Download the file `test_notebook.ipynb`.
+1. Download [the file `test_notebook.ipynb`](https://github.com/alligilmore-sum/sum_data_science/test_notebook.ipynb).
 2. In a new Terminal window, type `jupyter notebook`. You should see:
         <img src="images/jupyter_notebook_start.png" width="600"/>
 3. Navigate to the location where you downloaded `test_notebook.ipynb` and open it. You should see:
@@ -20,7 +20,7 @@
 [Follow these instructions](https://docs.continuum.io/anaconda/install/windows.html) to install the Anaconda distribution of python. This is a version of python that comes with all of the packages you will need for the Data Science tutorials.
 
 ### Test your install
-1. Download the file `test_notebook.ipynb`.
+1. Download [the file `test_notebook.ipynb`](https://github.com/alligilmore-sum/sum_data_science/test_notebook.ipynb).
 2. Start jupyter notebook from the icon in the Windows Start Menu. [See documentation for details.](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/execute.html)
 3. Navigate to the location where you downloaded test_notebook.ipynb and open it. You should see:
         <img src="images/test_notebook_running.png" width="600"/>
